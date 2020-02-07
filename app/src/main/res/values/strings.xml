@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Route Demo</string>
+    <string name="api_key">YOUR_API_KEY</string>
+    <string name="api_key_places">YOUR_API_KEY</string>
+</resources>
